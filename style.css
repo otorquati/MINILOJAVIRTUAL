@@ -1,0 +1,28 @@
+@charset 'UTF-8';
+
+body{
+  background-color: lightpink;
+  margin: auto;
+  width: 100vw;
+}
+#produtos {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 2%;
+  display: flex;
+  border: 5px solid gray;
+}
+
+#carrinho {
+max-width: 800px;
+margin: 0 auto;
+padding: 0 2%;
+display: block;
+border: 5px solid salmon;
+box-shadow: 5px 5px rgb(0,0,0, 0.30);
+}
+
+.produto-single{
+  width: 33.3%;
+  padding: 0 20px;
+}
