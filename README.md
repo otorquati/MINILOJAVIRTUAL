@@ -1,0 +1,2 @@
+# MINILOJAVIRTUAL
+ Mini loja virtual
